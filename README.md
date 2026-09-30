@@ -1,6 +1,5 @@
 <h1 align="center">[ MR. PY ]</h1>
 <p align="center">
-  <img src="https://i.hizliresim.com/5h4dhfc.png">
 </p>
 <p align="center">
 <a href="https://github.com/zeedslowy/MrRunBot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -10,13 +9,11 @@
 
 <h1 align="center">[ HAKKINDA ? ]</h1>
 
-## AMAÇ ?
+### AMAÇ ?
+**Python Temellerinizi Çalıştıran Bir Telegram Robotu Düşünün Bu Çok Garip**
 
-### Python Temellerinizi Çalıştıran Bir Telegram Robotu Düşünün Bu Çok Garip
-
-## İŞLEVSEL !
-
-### Sadece Tek Dosya Çalıştırır Komut Penceresi Veya Terminal Bulunmaz Bu Yüzden Script Halinde Atmayın Sadece Tek Dosya Betiği Çalıştırır..
+### İŞLEVSEL !
+**Sadece Tek Dosya Çalıştırır Komut Penceresi Veya Terminal Bulunmaz Bu Yüzden Script Halinde Atmayın Sadece Tek Dosya Betiği Çalıştırır..**
 
 <h1 align="center">[ KURULUM 📒 ]</h1>
   
@@ -24,52 +21,46 @@
 
 <h2>  VDS METHOD.​ </h2>
 
-### LİNUX 
-### METHOD 
-
+**METHOD**
 ```
 sudo apt install git
 sudo apt install python
 sudo apt install python3
 ```
 
-### METHOD | DİZAYN ✓
-
+**METHOD | DİZAYN ✓**
 ```
 git clone https://github.com/zeedslowy/MrRunBot
 ```
 
-### METHOD | TERMS ✓
-
+**METHOD | TERMS ✓**
 ```
 cd MrRunBot
 ```
 
-### METHOD | EDİT ✓
-
+**METHOD | EDİT ✓**
 ```
 vi config.py
 ```
 
-### GEREKLİ DEĞERLER ✓
+**GEREKLİ DEĞERLER ✓**
 [CHAT İD](t.me/MissRose_bot) 
 [BOT TOKEN](t.me/BotFather)
 
-### TERMİNALDEN ÇIKIŞ.
+**TERMİNALDEN ÇIKIŞ.**
 
 ```ctrl + c``` ```:wq``` ```enter```
 
-### METHOD | MODÜLLER ✓
+**METHOD | MODÜLLER ✓**
 ```telebot``` ```pyrogram```
 ```tgcrypto``` ```requests```
 
-### ÖRNEK KOMUT 
+**ÖRNEK KOMUT**
 ```
 pip install telebot
 ```
 
-### METHOD | FİNAL ✓
-
+**METHOD | FİNAL ✓**
 ```
 bash startup
 ```
